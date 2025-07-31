@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mridula Thulasiraman</h1>
 <h3 align="center">I'm Mridula Thulasiraman, a Computer Science undergraduate student at Virginia Tech with a strong passion for cybersecurity and machine learning. My journey has included exploring cutting-edge security technologies, working on innovative machine learning projects, and developing web applications. From participating in hands-on research to contributing to impactful personal and team projects, I've gained valuable experience in both cybersecurity and technology.</h3>
 
-- 🔭 I’m currently working on [Web vulnerability scanner](https://github.com/thulasiramanmt/web_vulnerability_scanner)
-
-- 🌱 I’m currently learning and planning on taking the **CompTIA Security +**
+- 🔭 I’m currently working on [DRONESploit](https://github.com/thulasiramanmt/DRONESploit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
